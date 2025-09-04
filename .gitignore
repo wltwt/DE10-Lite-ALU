@@ -9,4 +9,5 @@ simulation/
 *.vcd
 *.log
 *.tmp
+*.qws
 devkits/
