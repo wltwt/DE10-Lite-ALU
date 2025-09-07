@@ -11,3 +11,4 @@ simulation/
 *.tmp
 *.qws
 devkits/
+.qsys_edit/
